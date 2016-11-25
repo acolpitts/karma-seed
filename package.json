@@ -6,7 +6,6 @@
     "test": "karma start karma.conf.js"
   },
   "devDependencies": {
-    "install": "^0.8.2",
     "jasmine-core": "^2.2.0",
     "karma": "^0.12.31",
     "karma-chai": "^0.1.0",
