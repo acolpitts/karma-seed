@@ -31,8 +31,8 @@ describe('Calculator', function() {
   // inject the HTML fixture for the tests
   beforeEach(function() {
     // Why this line? See: https://github.com/billtrik/karma-fixture/issues/3
-    fixture.base = 'src/components';
-    fixture.load('calculator.fixture.html');
+    fixture.base = 'src/components/calculator';
+    fixture.load('calculator.html');
 
     // init js lib
     window.calculator.init();

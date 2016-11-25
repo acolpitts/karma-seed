@@ -19,7 +19,7 @@ module.exports = function(config) {
     files: [
       'src/components/**/*.js',
       'src/components/**/*.spec.js',
-      'src/components/**/*.fixture.html'
+      'src/components/**/*.html'
     ],
 
 
